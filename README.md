@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Software Development.
 - 📖 I'm open to opportunities in the field of Software Engineering.
+- 📫 You can reach out to me at: pujanrmehta@gmail.com
