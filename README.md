@@ -1,4 +1,4 @@
-### Hi, there this is Pujan. 👋
+### Hi, there this is Pujan 👋
 
 <!--
 **pujanm/pujanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
