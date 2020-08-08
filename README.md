@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 - 📫 You can reach out to me at: pujanrmehta@gmail.com
 
 ![Pujan's github stats](https://github-readme-stats.vercel.app/api?username=pujanm&show_icons=true&theme=tokyonight)
-
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
