@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Software Engineer at JPMorgan Chase & Co.
-- 📫 You can reach out to me at: pujanrmehta@gmail.com
+- 🔭 I’m currently working as a **Software Engineer at JPMorgan Chase & Co**.
+- 📫 You can reach out to me at: **pujanrmehta@gmail.com**
 
 ![Pujan's github stats](https://github-readme-stats.vercel.app/api?username=pujanm&show_icons=true&theme=tokyonight) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujanm)](https://github.com/anuraghazra/github-readme-stats)
