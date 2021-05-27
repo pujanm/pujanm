@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a Software Engineer @ **JPMorgan Chase & Co**.
+- 🔭 I’m currently working as an SDE @ Amazon.
 - 📫 You can reach out to me at: **pujanrmehta@gmail.com**
 - 📝 [Resume](https://docs.google.com/document/d/1yTsmq-HZ7nozRZ7oZ0kRUdw9Pk97qtrLltG-aSTy0GM/edit?usp=sharing)
 
